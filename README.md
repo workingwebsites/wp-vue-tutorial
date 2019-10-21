@@ -1,6 +1,7 @@
 # wp-vue-tutorial
 A tutorial on how to use Vue.js in WordPress.
 The tutorial can be found at: https://dev.to/workingwebsites/using-vue-in-wordpress-1b9l
+
 TLDR; 
 1. Create a plugin in WordPress to use the code
 2. Create a shortcode in the plugin
