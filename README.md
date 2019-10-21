@@ -1,5 +1,5 @@
 # wp-vue-tutorial
-A tutorial on how to use Vue.js in WordPress.
+This is the code for a tutorial on how to use Vue.js in WordPress.
 The tutorial can be found at: https://dev.to/workingwebsites/using-vue-in-wordpress-1b9l
 
 TLDR; 
