@@ -8,4 +8,5 @@ TLDR;
 3. Create your Vue code
 4. Load Vue, then your code file.
 5. Make sure your .js file is loaded after the dom is drawn.
+
 You're done!
